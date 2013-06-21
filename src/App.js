@@ -3,6 +3,6 @@ Ext.define('CustomApp', {
     componentCls: 'app',
 
     launch: function() {
-        this.update("hello world");
+        this.update("play with change, hello world");
     }
 });
